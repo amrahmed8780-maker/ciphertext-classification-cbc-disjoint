@@ -3,7 +3,7 @@
 Code and results for the matched ECB/CBC shared-key vs. disjoint-key (unseen-key)
 evaluation reported in Section VII-F and Table 12 of:
 
-> E. Omara, N. E. Hammami, A. A. Hassanain, and M. M. Aboghazalah,
+> A. A. Hassanain, N. E. Hammami,E. Omara , and M. M. Aboghazalah,
 > "Ciphertext-Only Classification of File Encryption Algorithms Using Multi-Order
 > Hex-Character N-Grams and Mode-Aware Learning," *IEEE Access* (under review).
 
